@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "Project1Vanquish",
+  "name": "VanquishProject1",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "56.0"
