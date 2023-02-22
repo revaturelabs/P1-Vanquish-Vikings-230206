@@ -8,6 +8,14 @@
 		<members>Currency</members>
 		<name>Settings</name>
 	</types>
+	<types>
+		<members>Case.CaseAcceptedResponse</members>
+		<name>AutoResponseRule</name>
+	</types>
+	<types>
+		<members>Security</members>
+		<name>Settings</name>
+	</types>
 	<version>55.0</version>
 </Package>
 
