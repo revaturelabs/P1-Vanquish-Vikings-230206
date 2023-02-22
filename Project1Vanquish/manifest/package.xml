@@ -4,6 +4,10 @@
 		<members>*</members>
 		<name>Profile</name>
 	</types>
+	<types>
+		<members>Currency</members>
+		<name>Settings</name>
+	</types>
 	<version>55.0</version>
 </Package>
 
