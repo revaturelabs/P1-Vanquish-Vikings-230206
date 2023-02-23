@@ -16,6 +16,10 @@
 		<members>Security</members>
 		<name>Settings</name>
 	</types>
+	<types>
+		<members>Case.Status</members>
+		<name>CustomField</name>
+	</types>
 	<version>55.0</version>
 </Package>
 
