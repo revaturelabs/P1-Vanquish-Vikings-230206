@@ -17,7 +17,7 @@
 	<types>
 		<members>Certification__c</members>
 		<members>Payment_Receipt__c</members>
-		<members>Reimbursment__c</members>
+		<members>Reimbursement__c</members>
 		<members>Work_Order__c</members>
 		<members>Product2</members>
 		<members>PriceBook2</members>
@@ -26,7 +26,7 @@
 	<types>
 		<members>Certification__c</members>
 		<members>Payment_Receipt__c</members>
-		<members>Reimbursment__c</members>
+		<members>Reimbursement__c</members>
 		<members>Work_Order__c</members>
 		<name>CustomTab</name>
 	</types>
