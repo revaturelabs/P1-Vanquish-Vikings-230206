@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Certification__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Reimbursement__c.Requestor__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Reimbursement__c.Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <loginHours>
+        <fridayEnd>1020</fridayEnd>
+        <fridayStart>540</fridayStart>
+        <mondayEnd>1020</mondayEnd>
+        <mondayStart>540</mondayStart>
+        <saturdayEnd>1020</saturdayEnd>
+        <saturdayStart>540</saturdayStart>
+        <sundayEnd>1020</sundayEnd>
+        <sundayStart>540</sundayStart>
+        <thursdayEnd>1020</thursdayEnd>
+        <thursdayStart>540</thursdayStart>
+        <tuesdayEnd>1020</tuesdayEnd>
+        <tuesdayStart>540</tuesdayStart>
+        <wednesdayEnd>1020</wednesdayEnd>
+        <wednesdayStart>540</wednesdayStart>
+    </loginHours>
+    <tabVisibilities>
+        <tab>Certification__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Reimbursement__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
