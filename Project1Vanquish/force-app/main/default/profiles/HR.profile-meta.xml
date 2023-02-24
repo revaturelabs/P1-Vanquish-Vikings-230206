@@ -6,6 +6,16 @@
         <field>Certification__c.Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Reimbursement__c.Requestor__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Reimbursement__c.Status__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginHours>
         <fridayEnd>1020</fridayEnd>
         <fridayStart>540</fridayStart>
@@ -24,6 +34,10 @@
     </loginHours>
     <tabVisibilities>
         <tab>Certification__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Reimbursement__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <userLicense>Salesforce</userLicense>
