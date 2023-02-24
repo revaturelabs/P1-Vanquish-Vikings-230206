@@ -5,7 +5,7 @@
 		<members>Finance</members>
 		<members>HR</members>
 		<members>IT</members>
-		<members>System Administrator</members>
+		<members>Admin</members>
 		<name>Profile</name>
 	</types>
 	<!--
@@ -16,18 +16,18 @@
 	-->
 	<types>
 		<members>Certification__c</members>
-		<members>Payment_Receipt__c</members>
+		<!--<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
 		<members>Work_Order__c</members>
 		<members>Product2</members>
-		<members>PriceBook2</members>
+		<members>PriceBook2</members>-->
 		<name>CustomObject</name>
 	</types>
 	<types>
 		<members>Certification__c</members>
-		<members>Payment_Receipt__c</members>
+		<!--<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
-		<members>Work_Order__c</members>
+		<members>Work_Order__c</members>-->
 		<name>CustomTab</name>
 	</types>
 	<types>
