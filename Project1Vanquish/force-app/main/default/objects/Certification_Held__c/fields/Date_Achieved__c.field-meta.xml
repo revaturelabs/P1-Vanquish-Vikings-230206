@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Receipt_Number__c</fullName>
-    <displayFormat>Receipt{000000}</displayFormat>
+    <fullName>Date_Achieved__c</fullName>
     <externalId>false</externalId>
-    <label>Receipt Number</label>
+    <label>Date Achieved</label>
+    <required>false</required>
     <trackTrending>false</trackTrending>
-    <type>AutoNumber</type>
+    <type>Date</type>
 </CustomField>

@@ -8,6 +8,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Certification_Held__c.Date_Achieved__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Certification_Required__c.Product__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -18,7 +23,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Payment_Receipt__c.Receipt_Number__c</field>
+        <field>Order.Payment_Amount__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Order.Total_Amount_Due__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

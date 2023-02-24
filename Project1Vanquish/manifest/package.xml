@@ -20,6 +20,7 @@
 		<members>Certification_Held__c</members>
 		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
+		<members>User</members>
 		<!--<members>Work_Order__c</members>
 		<members>Product2</members>
 		<members>PriceBook2</members>-->
@@ -40,6 +41,9 @@
 	</types>
 	<types>
 		<members>Case.Status</members>
+		<members>Order.Order_Total__c</members>
+		<members>Order.Payment_Amount__c</members>
+		<members>Order.Total_Amount_Due__c</members>
 		<name>CustomField</name>
 	</types>
 	<version>55.0</version>
