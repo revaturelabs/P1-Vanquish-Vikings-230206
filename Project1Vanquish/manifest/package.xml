@@ -15,14 +15,20 @@
 	</types>
 	-->
 	<types>
+		<members>Engineering_Lead</members>
+		<members>Finance</members>
+		<name>PermissionSet</name>
+	</types>
+	<types>
+		<members>Account</members>
 		<members>Certification__c</members>
 		<members>Certification_Required__c</members>
 		<members>Certification_Held__c</members>
 		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
-		<!--<members>Work_Order__c</members>
+		<members>Work_Orderc__c</members>
 		<members>Product2</members>
-		<members>PriceBook2</members>-->
+		<members>PriceBook2</members>
 		<name>CustomObject</name>
 	</types>
 	<types>
@@ -31,7 +37,6 @@
 		<members>Certification_Held__c</members>
 		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
-		<!--<members>Work_Order__c</members>-->
 		<name>CustomTab</name>
 	</types>
 	<types>
@@ -41,6 +46,12 @@
 	<types>
 		<members>Case.Status</members>
 		<name>CustomField</name>
+	</types>
+	<types>
+		<members>Support_Tickets_Process_C47</members>
+		<members>Use_Case_C30</members>
+		<members>C35_Work_Order_Progress</members>
+		<name>FlexiPage</names>
 	</types>
 	<version>55.0</version>
 </Package>
