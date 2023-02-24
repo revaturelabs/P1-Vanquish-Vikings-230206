@@ -15,6 +15,10 @@
 	</types>
 	-->
 	<types>
+		<members>Support_Reps</members>
+		<name>DataCategoryGroup</name>
+	</types>
+	<types>
 		<members>Engineering_Lead</members>
 		<members>Finance</members>
 		<name>PermissionSet</name>
