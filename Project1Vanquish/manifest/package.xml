@@ -17,6 +17,7 @@
 	<types>
 		<members>Certification__c</members>
 		<members>Certification_Required__c</members>
+		<members>Certification_Held__c</members>
 		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
 		<!--<members>Work_Order__c</members>
@@ -27,6 +28,7 @@
 	<types>
 		<members>Certification__c</members>
 		<members>Certification_Required__c</members>
+		<members>Certification_Held__c</members>
 		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
 		<!--<members>Work_Order__c</members>-->

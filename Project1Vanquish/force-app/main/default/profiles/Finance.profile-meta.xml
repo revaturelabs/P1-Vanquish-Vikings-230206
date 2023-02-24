@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Certification_Held__c.Certification_Holder__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Certification_Required__c.Product__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -26,6 +31,10 @@
         <field>Reimbursement__c.Status__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <tabVisibilities>
+        <tab>Certification_Held__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Certification_Required__c</tab>
         <visibility>DefaultOn</visibility>
