@@ -1,0 +1,13 @@
+Alias,Email,Email Encoding,First Name,Geocode Accuracy,Language,Last Name,Locale,Profile ID,Role ID,Username,Profile.Profile ID
+"autoproc","autoproc@00ddm000000hqjmmaw","UTF-8","Automated","","en_US","Process","en_US","00eDm000000WIa9IAG","","autoproc@00ddm000000hqjmmaw",""
+"autocln","automatedclean@00ddm000000hqjmmaw","UTF-8","","","en_US","Data.com Clean","en_US","00eDm000000WIa9IAG","","automatedclean@00ddm000000hqjmmaw",""
+"jlang","jon@unitedsolar.com","UTF-8","Jon","","en_US","Langston","en_US","00eDm000000tKxuIAE","","jon@unitedsolar.com","00eDm000000tKxuIAE"
+"lgood","lsssa@unitedsolar.com","UTF-8","Lisa","","en_US","Goodwin","en_US","00eDm000000tKxuIAE","","lsssa@unitedsolar.com","00eDm000000tKxuIAE"
+"dkeys","damiamania@unitedsolar.com","UTF-8","Damian","","en_US","Keystone","en_US","00eDm000000tKy4IAE","","damiamania@unitedsolar.com","00eDm000000tKy4IAE"
+"acair","arabspring@unitedsolar.com","UTF-8","Alexandra","","en_US","Cairo","en_US","00eDm000000tKxzIAE","","arabspring@unitedsolar.com","00eDm000000tKxzIAE"
+"cinth","thehouse@unitedsolar.com","UTF-8","Cory","","en_US","InTheHouse","en_US","00eDm000000tKyEIAU","","thehouse@unitedsolar.com","00eDm000000tKyEIAU"
+"integ","integration@example.com","UTF-8","Integration","","en_US","User","en_US","00eDm000000WIa8IAG","","integration@00ddm000000hqjmmaw.com","00eDm000000WIa8IAG"
+"sec","insightssecurity@example.com","UTF-8","Security","","en_US","User","en_US","00eDm000000WIaEIAW","","insightssecurity@00ddm000000hqjmmaw.com","00eDm000000WIaEIAW"
+"JLawr","lawrencejesse214@gmail.com","UTF-8","Jesse","","en_US","Lawrence","en_US","00eDm000000WIa7IAG","","lawrencejesse214@empathetic-hawk-dduefa.com","00eDm000000WIa7IAG"
+"platint","noreply@00ddm000000hqjmmaw","UTF-8","","","en_US","Platform Integration User","en_US","00eDm000000WIaDIAW","","cloud@00ddm000000hqjmmaw",""
+"Chatter","noreply@chatter.salesforce.com","UTF-8","","","en_US","Chatter Expert","en_US","00eDm000000WIaFIAW","","chatty.00ddm000000hqjmmaw.jppslx5vhf1i@chatter.salesforce.com","00eDm000000WIaFIAW"
