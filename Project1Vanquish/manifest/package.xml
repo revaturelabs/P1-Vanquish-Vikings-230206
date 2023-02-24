@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>*</members>
+		<members>Engineer</members>
+		<members>Finance</members>
+		<members>HR</members>
+		<members>IT</members>
+		<members>Admin</members>
 		<name>Profile</name>
 	</types>
-	<types>
-		<members>Currency</members>
-		<name>Settings</name>
-	</types>
+	<!--
 	<types>
 		<members>Case.CaseAcceptedResponse</members>
 		<name>AutoResponseRule</name>
 	</types>
+	-->
+	<types>
+		<members>Certification__c</members>
+		<members>Certification_Required__c</members>
+		<members>Certification_Held__c</members>
+		<members>Payment_Receipt__c</members>
+		<members>Reimbursement__c</members>
+		<!--<members>Work_Order__c</members>
+		<members>Product2</members>
+		<members>PriceBook2</members>-->
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>Certification__c</members>
+		<members>Certification_Required__c</members>
+		<members>Certification_Held__c</members>
+		<members>Payment_Receipt__c</members>
+		<members>Reimbursement__c</members>
+		<!--<members>Work_Order__c</members>-->
+		<name>CustomTab</name>
+	</types>
 	<types>
 		<members>Security</members>
 		<name>Settings</name>
+	</types>
+	<types>
+		<members>Case.Status</members>
+		<name>CustomField</name>
 	</types>
 	<version>55.0</version>
 </Package>
