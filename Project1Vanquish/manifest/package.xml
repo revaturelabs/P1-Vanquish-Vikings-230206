@@ -16,7 +16,8 @@
 	-->
 	<types>
 		<members>Certification__c</members>
-		<!--<members>Payment_Receipt__c</members>-->
+		<members>Certification_Required__c</members>
+		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
 		<!--<members>Work_Order__c</members>
 		<members>Product2</members>
@@ -25,7 +26,8 @@
 	</types>
 	<types>
 		<members>Certification__c</members>
-		<!--<members>Payment_Receipt__c</members>-->
+		<members>Certification_Required__c</members>
+		<members>Payment_Receipt__c</members>
 		<members>Reimbursement__c</members>
 		<!--<members>Work_Order__c</members>-->
 		<name>CustomTab</name>
