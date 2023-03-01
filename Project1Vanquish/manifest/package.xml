@@ -8,12 +8,10 @@
 		<members>Admin</members>
 		<name>Profile</name>
 	</types>
-	<!--
-	<types>
+	<!--<types>
 		<members>Case.CaseAcceptedResponse</members>
 		<name>AutoResponseRule</name>
-	</types>
-	-->
+	</types>-->
 	<types>
 		<members>Support_Reps</members>
 		<name>DataCategoryGroup</name>
