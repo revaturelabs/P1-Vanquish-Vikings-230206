@@ -66,6 +66,10 @@
 		<members>Account.Residential</members>
 		<name>RecordType</name>
 	</types>
+	<types>
+		<members>Notify_Engineers_Assigned_to_Work_Orders</members>
+		<name>Flow</name>
+	</types>
 	<version>55.0</version>
 </Package>
 
