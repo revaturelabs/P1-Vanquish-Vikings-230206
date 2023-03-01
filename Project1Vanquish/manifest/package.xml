@@ -61,6 +61,11 @@
 		<members>C35_Work_Order_Progress</members>
 		<name>FlexiPage</names>
 	</types>
+	<types>
+		<members>Account.Business</members>
+		<members>Account.Residential</members>
+		<name>RecordType</name>
+	</types>
 	<version>55.0</version>
 </Package>
 

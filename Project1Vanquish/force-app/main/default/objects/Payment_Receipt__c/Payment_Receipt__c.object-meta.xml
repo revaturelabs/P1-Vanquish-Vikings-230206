@@ -153,15 +153,14 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ControlledByParent</externalSharingModel>
+    <externalSharingModel>ReadWrite</externalSharingModel>
     <label>Payment Receipt</label>
     <nameField>
-        <displayFormat>RECEIPT{000}</displayFormat>
         <label>Payment Receipt Name</label>
-        <type>AutoNumber</type>
+        <type>Text</type>
     </nameField>
     <pluralLabel>Payment Receipts</pluralLabel>
     <searchLayouts></searchLayouts>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
