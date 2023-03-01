@@ -69,7 +69,7 @@
 		<name>Flow</name>
 	</types>
 	<types>
-		<members>Lead.Engineering Assignment</members>
+		<members>Lead.Engineering_Assignment</members>
 		<name>AssignmentRule</name>
 	</types>
 	<version>55.0</version>
